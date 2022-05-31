@@ -38,7 +38,7 @@ function App() {
         <br />
       </address>
 
-      <code style={{display:"block"}}>code1</code>
+      <code style={{ display: "block" }}>code1</code>
       <code>code1</code>
     </>
   );
